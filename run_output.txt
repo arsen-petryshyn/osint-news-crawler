@@ -1,0 +1,194 @@
+2026-05-04 12:58:19 [INFO] === Worker HTML started ===
+2026-05-04 12:58:19 [INFO] Source: ukrinform.ua, Max pages: 15
+[INIT].... → Crawl4AI 0.8.6 
+2026-05-04 12:58:20 [INFO] Fetching listing page: https://www.ukrinform.ua/rubric-polytics
+[FETCH]... ↓ https://www.ukrinform.ua/rubric-polytics                           
+| ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://www.ukrinform.ua/rubric-polytics                           
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.ukrinform.ua/rubric-polytics                           
+| ✓ | ⏱: 1.60s 
+2026-05-04 12:58:22 [INFO]   Found 24 article links
+2026-05-04 12:58:22 [INFO] Total unique articles to fetch: 15
+[INIT].... → Crawl4AI 0.8.6 
+2026-05-04 12:58:22 [INFO] [1/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119314-britania-ta-es-rozpocnut-peregovori-sodo-priednanna-londona-do-kreditu-dla-ukraini-ft.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119314...riednanna-londona-do-kreditu-
+dla-ukraini-ft.html  | ✓ | ⏱: 1.37s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119314...riednanna-londona-do-kreditu-
+dla-ukraini-ft.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119314...riednanna-londona-do-kreditu-
+dla-ukraini-ft.html  | ✓ | ⏱: 1.39s 
+2026-05-04 12:58:23 [INFO]   Saved raw: 28e8bb7e8592.html
+2026-05-04 12:58:23 [INFO]   Saved normalized: 28e8bb7e8592.json
+2026-05-04 12:58:23 [INFO] [2/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119457-zelenskij-u-erevani-zustrivsa-iz-fico.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119457-zelenskij-u-erevani-zustrivsa-i
+z-fico.html          | ✓ | ⏱: 1.05s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119457-zelenskij-u-erevani-zustrivsa-i
+z-fico.html          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119457-zelenskij-u-erevani-zustrivsa-i
+z-fico.html          | ✓ | ⏱: 1.07s 
+2026-05-04 12:58:24 [INFO]   Saved raw: cb576d1609a3.html
+2026-05-04 12:58:24 [INFO]   Saved normalized: cb576d1609a3.json
+2026-05-04 12:58:24 [INFO] [3/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119450-stefancuk-na-konferencii-u-danii-zaklikav-koleg-z-es-do-posilenna-oboronnih-spromoznostej-ukraini.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119450...o-posilenna-oboronnih-spromoz
+nostej-ukraini.html  | ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119450...o-posilenna-oboronnih-spromoz
+nostej-ukraini.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119450...o-posilenna-oboronnih-spromoz
+nostej-ukraini.html  | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:25 [INFO]   Saved raw: ead2c1b0301d.html
+2026-05-04 12:58:25 [INFO]   Saved normalized: ead2c1b0301d.json
+2026-05-04 12:58:25 [INFO] [4/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119409-zelenskij-ukrainski-droni-mozut-proletiti-na-paradi-u-moskvi-9-travna.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119409...mozut-proletiti-na-paradi-u-m
+oskvi-9-travna.html  | ✓ | ⏱: 0.77s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119409...mozut-proletiti-na-paradi-u-m
+oskvi-9-travna.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119409...mozut-proletiti-na-paradi-u-m
+oskvi-9-travna.html  | ✓ | ⏱: 0.79s 
+2026-05-04 12:58:26 [INFO]   Saved raw: 514e26d531fb.html
+2026-05-04 12:58:26 [INFO]   Saved normalized: 514e26d531fb.json
+2026-05-04 12:58:26 [INFO] [5/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119404-zelenskij-na-samiti-v-erevani-evropa-mae-buti-za-stolom-budakih-peregovoriv.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119404...ropa-mae-buti-za-stolom-budak
+ih-peregovoriv.html  | ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119404...ropa-mae-buti-za-stolom-budak
+ih-peregovoriv.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119404...ropa-mae-buti-za-stolom-budak
+ih-peregovoriv.html  | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:27 [INFO]   Saved raw: 85e8929a8c65.html
+2026-05-04 12:58:27 [INFO]   Saved normalized: 85e8929a8c65.json
+2026-05-04 12:58:27 [INFO] [6/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119403-sibiga-do-kallas-ukraina-vse-castise-povertae-vijnu-na-teritoriu-rf.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119403...-vse-castise-povertae-vijnu-n
+a-teritoriu-rf.html  | ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119403...-vse-castise-povertae-vijnu-n
+a-teritoriu-rf.html  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119403...-vse-castise-povertae-vijnu-n
+a-teritoriu-rf.html  | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:28 [INFO]   Saved raw: 4142c6c623d0.html
+2026-05-04 12:58:28 [INFO]   Saved normalized: 4142c6c623d0.json
+2026-05-04 12:58:28 [INFO] [7/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119389-zelenskij-u-erevani-zustrinetsa-z-fico.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119389-zelenskij-u-erevani-zustrinetsa
+-z-fico.html         | ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119389-zelenskij-u-erevani-zustrinetsa
+-z-fico.html         | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119389-zelenskij-u-erevani-zustrinetsa
+-z-fico.html         | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:29 [INFO]   Saved raw: a8bba66cd71f.html
+2026-05-04 12:58:29 [INFO]   Saved normalized: a8bba66cd71f.json
+2026-05-04 12:58:29 [INFO] [8/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119385-na-zustrici-lideriv-krain-vasingtonskogo-formatu-v-erevani-obgovorili-ppo-dla-ukraini-peregovori-i-purl.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119385...bgovorili-ppo-dla-ukraini-per
+egovori-i-purl.html  | ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119385...bgovorili-ppo-dla-ukraini-per
+egovori-i-purl.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119385...bgovorili-ppo-dla-ukraini-per
+egovori-i-purl.html  | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:30 [INFO]   Saved raw: aa51ebf4e86f.html
+2026-05-04 12:58:30 [INFO]   Saved normalized: aa51ebf4e86f.json
+2026-05-04 12:58:30 [INFO] [9/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119383-zelenskij-obgovoriv-iz-fon-der-laen-evropejskij-paket-pidtrimki.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119383...iz-fon-der-laen-evropejskij-p
+aket-pidtrimki.html  | ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119383...iz-fon-der-laen-evropejskij-p
+aket-pidtrimki.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119383...iz-fon-der-laen-evropejskij-p
+aket-pidtrimki.html  | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:31 [INFO]   Saved raw: 9fcafae9a3ec.html
+2026-05-04 12:58:31 [INFO]   Saved normalized: 9fcafae9a3ec.json
+2026-05-04 12:58:31 [INFO] [10/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119302-zelenskij-pribuv-na-samit-evropejskoi-politicnoi-spilnoti.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119302...uv-na-samit-evropejskoi-polit
+icnoi-spilnoti.html  | ✓ | ⏱: 1.04s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119302...uv-na-samit-evropejskoi-polit
+icnoi-spilnoti.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119302...uv-na-samit-evropejskoi-polit
+icnoi-spilnoti.html  | ✓ | ⏱: 1.06s 
+2026-05-04 12:58:32 [INFO]   Saved raw: d0c0ae1362ae.html
+2026-05-04 12:58:32 [INFO]   Saved normalized: d0c0ae1362ae.json
+2026-05-04 12:58:32 [INFO] [11/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119266-ukraina-pamatae-pro-koznogo-zurnalista-v-rosijskomu-poloni-mzs.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119266...-koznogo-zurnalista-v-rosijsk
+omu-poloni-mzs.html  | ✓ | ⏱: 0.76s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119266...-koznogo-zurnalista-v-rosijsk
+omu-poloni-mzs.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119266...-koznogo-zurnalista-v-rosijsk
+omu-poloni-mzs.html  | ✓ | ⏱: 0.79s 
+2026-05-04 12:58:33 [INFO]   Saved raw: 49e8a0f07b17.html
+2026-05-04 12:58:33 [INFO]   Saved normalized: 49e8a0f07b17.json
+2026-05-04 12:58:33 [INFO] [12/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119268-zelenskij-nazvav-tri-klucovi-zavdanna-pered-samitom-evropejskoi-politicnoi-spilnoti.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119268...red-samitom-evropejskoi-polit
+icnoi-spilnoti.html  | ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119268...red-samitom-evropejskoi-polit
+icnoi-spilnoti.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119268...red-samitom-evropejskoi-polit
+icnoi-spilnoti.html  | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:34 [INFO]   Saved raw: bc697ef911aa.html
+2026-05-04 12:58:34 [INFO]   Saved normalized: bc697ef911aa.json
+2026-05-04 12:58:34 [INFO] [13/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119261-francia-pidtrimue-zblizenna-ukraini-z-es-ale-bez-skorocenih-slahiv-do-vstupu-ministr.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119261...ale-bez-skorocenih-slahiv-do-
+vstupu-ministr.html  | ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119261...ale-bez-skorocenih-slahiv-do-
+vstupu-ministr.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119261...ale-bez-skorocenih-slahiv-do-
+vstupu-ministr.html  | ✓ | ⏱: 1.02s 
+2026-05-04 12:58:35 [INFO]   Saved raw: 52fd10543245.html
+2026-05-04 12:58:35 [INFO]   Saved normalized: 52fd10543245.json
+2026-05-04 12:58:35 [INFO] [14/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119256-zelenskij-obgovoriv-z-premerom-cehii-dvostoronni-vidnosini-ta-slah-ukraini-do-es.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119256...dvostoronni-vidnosini-ta-slah
+-ukraini-do-es.html  | ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119256...dvostoronni-vidnosini-ta-slah
+-ukraini-do-es.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119256...dvostoronni-vidnosini-ta-slah
+-ukraini-do-es.html  | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:36 [INFO]   Saved raw: 3e377680f873.html
+2026-05-04 12:58:36 [INFO]   Saved normalized: 3e377680f873.json
+2026-05-04 12:58:36 [INFO] [15/15] Fetching: https://www.ukrinform.ua/rubric-polytics/4119249-zelenskij-na-zustrici-iz-starmerom-ukraina-gotova-do-nastupnogo-raundu-peregovoriv-u-tristoronnomu-formati.html
+[FETCH]... ↓ 
+https://www.ukrinform.ua/rubric-polytics/4119249...-raundu-peregovoriv-u-tristor
+onnomu-formati.html  | ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ 
+https://www.ukrinform.ua/rubric-polytics/4119249...-raundu-peregovoriv-u-tristor
+onnomu-formati.html  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.ukrinform.ua/rubric-polytics/4119249...-raundu-peregovoriv-u-tristor
+onnomu-formati.html  | ✓ | ⏱: 1.01s 
+2026-05-04 12:58:37 [INFO]   Saved raw: 7602a585167a.html
+2026-05-04 12:58:37 [INFO]   Saved normalized: 7602a585167a.json
+2026-05-04 12:58:37 [INFO] === Done. Successfully processed 15/15 articles ===
