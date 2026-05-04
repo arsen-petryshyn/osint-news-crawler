@@ -1,0 +1,11 @@
+{
+  "source": "ukrinform.ua",
+  "base_url": "https://www.ukrinform.ua",
+  "start_urls": [
+    "https://www.ukrinform.ua/rubric-polytics",
+    "https://www.ukrinform.ua/rubric-economy",
+    "https://www.ukrinform.ua/rubric-society"
+  ],
+  "max_pages": 15,
+  "output_dir": "data"
+}

@@ -1,0 +1,10 @@
+services:
+  worker-html:
+    build: .
+    container_name: osint-worker-html
+    volumes:
+      - ./data:/app/data
+      - ./config.json:/app/config.json:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: "no"
